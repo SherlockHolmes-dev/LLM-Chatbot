@@ -1,3 +1,7 @@
+<img width="843" alt="Screenshot 2025-02-10 at 7 35 24 PM" src="https://github.com/user-attachments/assets/f4860db0-af3e-440c-b31d-484c32c8b03d" />
+
+<img width="833" alt="Screenshot 2025-02-10 at 7 34 47 PM" src="https://github.com/user-attachments/assets/268a6d2e-8a9d-4db7-8764-f8a0445650b6" />
+
 # Build an LLM RAG Chatbot With LangChain
 
 To run the final application you can use the code provided in `source_code_final/`.
